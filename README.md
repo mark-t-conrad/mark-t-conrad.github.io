@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Mark Conrad
 
-You can use the [editor on GitHub](https://github.com/mark-t-conrad/mark-t-conrad.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I made this webpage as a quick portfolio page, I wanted to explore web development during my nights and weekends 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I may use this as a platform to explore technologies and understand how web applications work and advancements in this domain, eventually it would be fun to test out some user authentication using zero knowledge proofs (I interned at a identity blockchain startup a couple years ago before my current job so this interests me) and explore what Oauth2.0 authorization is (and what are it's limitations?), and create/explore smart control-f extensions using transformer-based models (such as efforts like this https://github.com/model-zoo/shift-ctrl-f) and use this page as a canvas to explore technology that interests me and possibly others :) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mark-t-conrad/mark-t-conrad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
